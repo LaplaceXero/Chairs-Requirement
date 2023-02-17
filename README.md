@@ -1,5 +1,5 @@
-# Chairs-Requirement
-CodeChef: Chairs Requirement Problem
+#CodeChef:Chairs-Requirement
+Chairs Requirement Problem
 
 Problem
 Chef's coding class is very famous in Chefland.
